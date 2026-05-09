@@ -1,22 +1,22 @@
 [
 	{
-		version: '1.0.0.beta1',
-		date: [2026,5,13],
-		changes: [
-			'First Release of CrossFlow for Windows and Mac - Adobe Premiere Pro from 13.0 CC 2019 - DaVinci Resolve Studio from 19.0',
-			'CrossFlow does not work with the Free DaVinci Resolve standard version',
-			['Supported while converting your Premiere Pro Project to DaVinci Resolve:',
-				'Multiple Timelines with different Framerates or Resolutions',
-				'Different Timeline Audio Tracks Config (Mono, Stereo, 5.1, ..)',
-				'Nested Sequences',
-				'Timeline Clip Opacity, Motion Params (Scale, Position, Rotation, AnchorPoint, Blend Mode), Audio Volume and Pan',
-				'Timeline Clip Speed Changed and/or Reversed',
-				'Timeline Clip Name and Colors',
-				'Simple Audio and Video Transitions',
-				'Framerate Interpreted Footages',
-				'Image Sequences',
-				'Project Folder Structures',
-				'Project Item and Timeline Markers',
+		"version": "1.0.0.beta1",
+		"date": [2026,5,13],
+		"changes": [
+			"First Release of CrossFlow for Windows and Mac - Adobe Premiere Pro from 13.0 CC 2019 - DaVinci Resolve Studio from 19.0",
+			"CrossFlow does not work with the Free DaVinci Resolve standard version",
+			["Supported while converting your Premiere Pro Project to DaVinci Resolve:",
+				"Multiple Timelines with different Framerates or Resolutions",
+				"Different Timeline Audio Tracks Config (Mono, Stereo, 5.1, ..)",
+				"Nested Sequences",
+				"Timeline Clip Opacity, Motion Params (Scale, Position, Rotation, AnchorPoint, Blend Mode), Audio Volume and Pan",
+				"Timeline Clip Speed Changed and/or Reversed",
+				"Timeline Clip Name and Colors",
+				"Simple Audio and Video Transitions",
+				"Framerate Interpreted Footages",
+				"Image Sequences",
+				"Project Folder Structures",
+				"Project Item and Timeline Markers"
 			]
 		]
 	}
